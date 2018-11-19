@@ -105,10 +105,6 @@ At the time of writing, @jgigault is looking for a maintainer for 42FC, so he di
 
 Then press `5` to select tests for get_next_line, press `1` to install [moulitest][5] as an external repo, then `1` to configure the tests, now you handle the path to your get_next_line and then choose which test to run on your project.
 
-## Sponsors
-
-<a href="https://app.codesponsor.io/link/Fo4iMpT8bBWXwb54Lj7DPwqL/abdulrahmannmohamed/get_next_line" rel="nofollow"><img src="https://app.codesponsor.io/embed/Fo4iMpT8bBWXwb54Lj7DPwqL/abdulrahmannmohamed/get_next_line.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
-
 Enjoy.
 
 [1]: https://github.com/abdulrahmannmohamed/Get-Next-Line/blob/master/get_next_line.en.pdf "get_next_line PDF"
